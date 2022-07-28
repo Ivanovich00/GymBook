@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153090064221",
+    "firebase_url": "https://gymbook-services-default-rtdb.firebaseio.com",
+    "project_id": "gymbook-services",
+    "storage_bucket": "gymbook-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153090064221:android:244464e0984f3b3ddff2b4",
+        "android_client_info": {
+          "package_name": "com.gymbook.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153090064221-bcahj8klp22uq2svdnbcdudpc97i9r8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0YkzuHNWM-pxd54_2Cgz_XWUCVRIqUnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153090064221-bcahj8klp22uq2svdnbcdudpc97i9r8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
