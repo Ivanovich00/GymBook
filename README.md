@@ -1,6 +1,6 @@
-# gymbook
+# GymBook
 
-A new Flutter project.
+Gym App using Flutter
 
 ## Getting Started
 
